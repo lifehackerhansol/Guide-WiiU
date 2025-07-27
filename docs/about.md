@@ -1,6 +1,6 @@
 # About This Guide
 
-This guide was written by staff members of the [Nintendo Homebrew Discord Server](https://discord.gg/C29hYvh)
+This guide was written by staff members of the Nintendo Homebrew Discord Server.
 
 ::: info
 

@@ -12,7 +12,7 @@ hero:
 
 **Discord Help**
 
-For live support with this guide please visit us in **#wiiu-assistance** on the [Nintendo Homebrew Discord](https://discord.gg/C29hYvh) and ask, in English, for assistance. Please read **#faq-wiiu**, as well as our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
+For live support with this guide please visit us in **#support** on the [Aroma Discord](https://discord.gg/bZ2rep2) and ask, in English, for assistance. Please read our [Frequently Asked Questions](faq) page beforehand to see if your question has already been answered.
 
 :::
 
